@@ -1,0 +1,24 @@
+html, 
+body {
+   background-image: url(https://static.wixstatic.com/media/2f09d7_b14edafbe9a14af1b19411a276380dc1~mv2.webp);
+}
+
+.main-section {
+    background-image: url('../img/main-ventas.jpg');
+    background-size: cover; 
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+.card {
+    height: 100px;
+}
+
+.card img{
+    height: 250px;
+}
